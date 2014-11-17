@@ -10,6 +10,7 @@ namespace Console01
     {
         static void Main(string[] args)
         {
+            Console.Write("Hello World!!");
         }
     }
 }
